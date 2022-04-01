@@ -41,7 +41,7 @@ body{
 
 #image2{
     position: absolute;
-    bottom: -390px;
+    bottom: -350px;
     left:1000px;
    
 }
@@ -129,6 +129,7 @@ body{
 #arrowUp{
     bottom: 10px;
 }
+
 #methodText::before{
     content: "";
     height: 2px;
@@ -138,4 +139,40 @@ body{
     top: 935px;
     right:1090px;
     background-color: lightgreen;
+}
+#applications{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+#section01Port{
+    background-color: rgb(220, 243, 236);
+}
+.hpLaptop{
+    float: left;
+    border-radius: 5%;
+}
+#firstTextPort::before{
+    content: "";
+    height: 2px;
+    width: 30px;
+    display: block;
+    position: absolute;
+    top: 10px;
+    right:690px;
+    background-color: lightgreen;
+}
+#portfolios{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    color: black;
+    
+}
+#linkPort{
+    text-decoration: none;
+    color: black;
+}
+.iphone{
+    position: relative;
+    top: 40px;
+    border-radius: 10px;
 }
