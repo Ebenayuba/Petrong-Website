@@ -1,0 +1,141 @@
+.img-header{
+    
+    top: 1px;
+    float: left;
+    padding: 4px;
+}
+
+#nav-bar ul li a{
+    padding: 2px;
+    text-decoration: none;
+}
+
+#nav-bar ul li {
+    list-style-type: none;
+    display: inline;
+}
+body{
+    overflow-x: hidden;
+}
+
+#first-section{
+    background-color: rgb(220, 243, 236);
+}
+
+#text1{
+    text-align: left;
+    height: 150px;
+    width: 150px;
+}
+
+#text2{
+    position: relative;
+    margin-top: -120px;
+    left: 328px;
+    bottom: 40px;
+    height: 150px;
+    width: 419px;
+    border-radius: 2%;
+    background-color: white;
+}
+
+#image2{
+    position: absolute;
+    bottom: -390px;
+    left:1000px;
+   
+}
+#text1::before{
+    content: "";
+    height: 2px;
+    width: 30px;
+    display: block;
+    position: absolute;
+    top: 30px;
+    right:460px;
+    background-color: lightgreen;
+
+}
+#chatIcon{
+    position: relative;
+    top: 140px;
+    right: 40px;
+    
+}
+#thirdSection{
+    position: relative;
+    top: 150;
+    background-color: #dfdfde;
+}
+#num1{
+    color: rgb(170, 172, 173);    
+}
+#use{
+    background-color: rgb(224, 243, 224);
+}
+#foursquare{
+    position: relative;
+    bottom: 80px;
+    width: 450px;
+    left: 500px;
+    height: -4px;
+}
+#centralBlock{
+    padding: 50px;
+}
+.xvg{
+    
+    border-width: 10px;
+    border: rgb(14, 13, 13);
+    top: 2px;
+    float: left;
+    padding: 4px;
+}
+.redLaptop{
+    border-radius: 10px;
+}
+#ourTeam{
+    background-color: black;
+    color: white;
+}
+#ourTeamCol{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+.avatar{
+    border-radius: 100%;
+}
+#nextLevel{
+    background-color: rgb(224, 243, 224);
+}
+#nextLevelText{
+    color: rgb(250, 248, 248);
+}
+#button{
+    background-color: rgb(110, 204, 110);
+    border-radius: 20px;
+    width: 150px;
+    color: white;
+}
+#footer{
+    background-color: black;
+    color: white;
+}
+.links a{
+    text-decoration: none;
+}
+
+#arrowUp{
+    bottom: 10px;
+}
+#methodText::before{
+    content: "";
+    height: 2px;
+    width: 30px;
+    display: block;
+    position: absolute;
+    top: 935px;
+    right:1090px;
+    background-color: lightgreen;
+}
