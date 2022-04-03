@@ -41,7 +41,7 @@ body{
 
 #image2{
     position: absolute;
-    bottom: -350px;
+    bottom: -310px;
     left:1000px;
    
 }
@@ -126,6 +126,7 @@ body{
     text-decoration: none;
 }
 
+
 #arrowUp{
     bottom: 10px;
 }
@@ -165,14 +166,61 @@ body{
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
     color: black;
-    
+    height: 390px;    
 }
 #linkPort{
     text-decoration: none;
     color: black;
 }
-.iphone{
+.iphoneDemo{
     position: relative;
-    top: 40px;
+    top: 0px;
     border-radius: 10px;
+}
+.picture{
+    position: relative;
+    left: 20px;
+    border-radius: 10px;
+}
+#myCoverGenius{
+    background-color: rgb(34, 34, 34);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    height: 390px;
+}
+.myCoverIphone{
+    position: relative;
+    top: 0px;
+    border-radius: 10px;
+}
+#myCoverGenius01{
+    background-color: rgb(43, 90, 43);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    height: 390px;
+}
+#boundlessPay{
+    background-color: rgb(31, 31, 247);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    height: 390px;
+}
+#oxfordBuildBay{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    color: black;
+    height: 390px;    
+}
+#nextLevel02{
+    background-color: rgb(224, 243, 224);
+    color: black;
+}
+#whatYouNeed{
+    background-color: white;
+    color: black;
+}
+#insideWhatYouNeed{
+    border-radius: 5px;
+    background-color: rgb(224, 243, 224);
+    height: 150px;
 }
